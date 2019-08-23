@@ -1,6 +1,6 @@
 # Sgd - JWT
 
-####### 1 - O TLS funciona em dois pares de chaves, chave privada e chave pública. Esse par de chaves garante que os dados possam ser criptografados por uma chave, mas só podem ser descriptografados pelo outro par de chaves.  E também oferece selo de segurança / selo que aumenta a segurança do seu site, bem como a confiança do visitante.
+###### 1 - O TLS funciona em dois pares de chaves, chave privada e chave pública. Esse par de chaves garante que os dados possam ser criptografados por uma chave, mas só podem ser descriptografados pelo outro par de chaves.  E também oferece selo de segurança / selo que aumenta a segurança do seu site, bem como a confiança do visitante.
        
        O JSON Web Token (JWT) é um meio compacto e seguro de URL para representar declarações a serem transferidas entre duas partes. As JWTs representam um conjunto de declarações como um objeto JSON que é codificado em uma estrutura JWS e / ou JWE.
        

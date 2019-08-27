@@ -86,6 +86,8 @@ local.properties
 app/app.iml
 
 # Generated files
+.idea/**
+.idea/
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
